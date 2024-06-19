@@ -4,3 +4,4 @@ ___Тестирование мобильных приложений___
 * [Тестовый прогон тест-кейсов мобильного приложения "shopping-list"](https://github.com/keneshova14/mobile/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%20%D0%BC%D0%BE%D0%B1.%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 * [Отчет о дефектах, выявленных в ходе тестирования мобильного приложения "shopping-list"](https://docs.google.com/spreadsheets/d/1gLkNywc3KgOWjaRScF4qSW8Nhzgp4KoIlXGrd8Py1FY/edit?usp=sharing)
 * [Отчет по результатам тестирования мобильного приложения "shopping-list"](https://docs.google.com/document/d/1b_69iM-jBYZZxqUS4rDgiMRRfRuepuOGEqjrO38LjTk/edit?usp=sharing)
+* [Перехват трафика и его изменение на примере веб-приложения "demoshopping.ru"](https://docs.google.com/document/d/1M2IGXXAr7PWkCS9NNq_nBDEq1BzC3hUWJIPSM4kGsWU/edit?usp=drive_link)
